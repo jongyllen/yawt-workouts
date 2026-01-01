@@ -1,0 +1,33 @@
+{
+    "programs": [
+        {
+            "id": "calisthenics-28",
+            "name": "28-Day Calisthenics Plan",
+            "description": "BetterMe-style low-impact plan for foundation and form. Build strength with bodyweight exercises over 4 weeks.",
+            "author": "yawt",
+            "path": "calisthenics_28.json"
+        },
+        {
+            "id": "hamstring-strength-flex",
+            "name": "Hamstring Flexibility",
+            "description": "A 2-week daily routine to fix tight hamstrings and improve lower body mobility.",
+            "author": "yawt",
+            "path": "hamstring_stretch.json"
+        },
+        {
+            "id": "50-pushups-challenge",
+            "name": "50 Pushups Challenge",
+            "description": "A 6-week progressive plan to take you to 50 consecutive pushups.",
+            "author": "yawt",
+            "path": "pushups_50.json"
+        },
+        {
+            "id": "yoga-mobility-refined",
+            "name": "Yoga & Mobility",
+            "description": "Unlock your body with these daily mobility flows. A 1-week program with morning and evening routines.",
+            "author": "yawt",
+            "path": "yoga_mobility.json"
+        }
+    ]
+}
+
